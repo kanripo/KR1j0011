@@ -1,14 +1,14 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 埤雅
-#+DATE: 2016-04-12 14:30:39.174686
+#+DATE: 2016-04-12 14:30:40.031335
 #+PROPERTY: ID KR1j0011
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 35
 <pb:KR1j0011_WYG_035-1a>¶
 　　埤雅卷十八音釋¶
 ¶
-　　鉶(刑)　　𤧚(怱)　　繱(干公)　&KR2240;(别)　　□(居月)¶
+　　鉶(刑)　　璁(怱)　　繱(干公)　&KR2240;(别)　　□(居月)¶
 ¶
 　　忡(丑中)　惙(陟雷)　蔦(都了)　蕕(猶)　　蹂(仁栁)¶
 ¶

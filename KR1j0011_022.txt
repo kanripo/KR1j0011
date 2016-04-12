@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 埤雅
-#+DATE: 2016-04-12 14:30:38.940091
+#+DATE: 2016-04-12 14:30:39.796572
 #+PROPERTY: ID KR1j0011
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 22
 <pb:KR1j0011_WYG_022-1a>¶
 　　欽定四庫全書¶
@@ -12,7 +12,7 @@
 ¶
 　　釋馬¶
 ¶
-　　馬　　　駂　　　騏　　　&KR1107;¶
+　　馬　　　駂　　　騏　　　馵¶
 ¶
 　　駱　　　白顛　　驖　　　騵¶
 ¶
@@ -120,7 +120,7 @@
 修其所以執駒綱馬教□攻特臧僕講馭夫之法滋廣¶
 故雖騏亦閒習任為用矣非獨四驪也¶
 ¶
-　　&KR1107;¶
+　　馵¶
 ¶
 　　爾雅曰後右足白驤左白馵易曰震為馵足蓋取其躁¶
 以躁故二絆其足作足言縱之而動也馵足言制之而¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 埤雅
-#+DATE: 2016-04-12 14:30:38.853793
+#+DATE: 2016-04-12 14:30:39.704610
 #+PROPERTY: ID KR1j0011
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 17
 <pb:KR1j0011_WYG_017-1a>¶
 　　埤雅卷九音釋¶
@@ -25,7 +25,7 @@
 <pb:KR1j0011_WYG_017-1b>¶
 　　&KR1991;(力唐)　鴔(皮及)　鵀(女林)　鷸(以律)　矞(其律)¶
 ¶
-　　&KR0247;(胡絹)　舄(昔)¶
+　　衒(胡絹)　舄(昔)¶
 ¶
 ¶
 ¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 埤雅
-#+DATE: 2016-04-12 14:30:38.928082
+#+DATE: 2016-04-12 14:30:39.779662
 #+PROPERTY: ID KR1j0011
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 21
 <pb:KR1j0011_WYG_021-1a>¶
 　　埤雅卷十一音釋¶
@@ -16,7 +16,7 @@
 ¶
 　　秬(巨)　　菀(苑)　　嘒(許惠)　菌(窘)　　罅(赫)¶
 ¶
-　　&KR2258;(於凝)　&KR0725;(額)　　螇(胡雞)　螰(力木)　蚞(木)¶
+　　&KR2258;(於凝)　額(額)　　螇(胡雞)　螰(力木)　蚞(木)¶
 ¶
 　　蛷(求)　　檐(言)　　□(以朱)　溼(濕)　　螾(引)¶
 ¶

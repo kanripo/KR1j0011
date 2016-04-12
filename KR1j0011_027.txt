@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 埤雅
-#+DATE: 2016-04-12 14:30:39.013950
+#+DATE: 2016-04-12 14:30:39.888383
 #+PROPERTY: ID KR1j0011
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 27
 <pb:KR1j0011_WYG_027-1a>¶
 　　埤雅卷十四音釋¶
@@ -16,7 +16,7 @@
 ¶
 　　芑(玘)　　椈(居六)　詘(屈)　　樅(子庸)　櫬(楚鎮)¶
 ¶
-　　櫜(髙)　　𣯛(𨤲)　　檟(賈)　　樲(如至)　檍(於力)¶
+　　櫜(髙)　　氂(釐)　　檟(賈)　　樲(如至)　檍(於力)¶
 ¶
 　　檿(於簞)　榝(所㸃)　綌(去逆)　雘(於縳)　狙(覻)¶
 ¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 埤雅
-#+DATE: 2016-04-12 14:30:38.579929
+#+DATE: 2016-04-12 14:30:39.397912
 #+PROPERTY: ID KR1j0011
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 2
 <pb:KR1j0011_WYG_002-1a>¶
 　　埤雅卷一音釋¶
@@ -20,7 +20,7 @@
 ¶
 　　輭(乳兗)　罛(孤)　　濊(豁)　　鱍(市活)　噞(宜檢)¶
 ¶
-　　喁(魚凶)　鮀(它)　　鰡(流)　　&KR0276;(離)　　笱(古後)¶
+　　喁(魚凶)　鮀(它)　　鰡(流)　　婺(離)　　笱(古後)¶
 ¶
 <pb:KR1j0011_WYG_002-1b>¶
 　　䱗(飱)　　鮒(扶句)　沫(亡活)　鬐(其)　　麤(粗)¶

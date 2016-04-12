@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 埤雅
-#+DATE: 2016-04-12 14:30:39.048946
+#+DATE: 2016-04-12 14:30:39.917412
 #+PROPERTY: ID KR1j0011
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 29
 <pb:KR1j0011_WYG_029-1a>¶
 　　埤雅卷十五音釋¶
@@ -18,7 +18,7 @@
 ¶
 　　芼(莫報)　薸(瓢)　　黼(甫)　　黻(拂)　　橑(梁道)¶
 ¶
-　　&KR1627;(談)　　𤑔(而恱)　焫(而恱)　洌(列)　　攗(郡)¶
+　　&KR1627;(談)　　爇(而恱)　焫(而恱)　洌(列)　　攗(郡)¶
 ¶
 　　薢(芥)　　茩(構)　　炕(亢)　　鏄(薄)　　薅(蒿)¶
 ¶
