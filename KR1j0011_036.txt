@@ -5,7 +5,7 @@
 #+PROPERTY: BASEEDITION WYG
 #+PROPERTY: WITNESS WYG    
 #+PROPERTY: JUAN 36
-　<pb:KR1j0011_WYG_WYG0222-0223a>¶
+<pb:KR1j0011_WYG_036-0a>¶
 　欽定四庫全書¶
 ¶
 　　埤雅卷十九　　　　　　　宋　陸佃　撰¶
